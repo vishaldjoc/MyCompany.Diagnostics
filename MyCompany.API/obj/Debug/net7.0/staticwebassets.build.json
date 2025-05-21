@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "bYL/SJ/CcW353RF+VQkqJQb1QWTNNCPcCCvLoAVDYoE=",
+  "Source": "MyCompany.API",
+  "BasePath": "_content/MyCompany.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,12 @@
+C:\Development\project-bolt-sb1-sv2an1ox\project\MyCompany.Diagnostics\obj\Debug\net7.0\MyCompany.Diagnostics.csproj.AssemblyReference.cache
+C:\Development\project-bolt-sb1-sv2an1ox\project\MyCompany.Diagnostics\obj\Debug\net7.0\MyCompany.Diagnostics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\project-bolt-sb1-sv2an1ox\project\MyCompany.Diagnostics\obj\Debug\net7.0\MyCompany.Diagnostics.AssemblyInfoInputs.cache
+C:\Development\project-bolt-sb1-sv2an1ox\project\MyCompany.Diagnostics\obj\Debug\net7.0\MyCompany.Diagnostics.AssemblyInfo.cs
+C:\Development\project-bolt-sb1-sv2an1ox\project\MyCompany.Diagnostics\obj\Debug\net7.0\MyCompany.Diagnostics.csproj.CoreCompileInputs.cache
+C:\Development\project-bolt-sb1-sv2an1ox\project\MyCompany.Diagnostics\bin\Debug\net7.0\MyCompany.Diagnostics.deps.json
+C:\Development\project-bolt-sb1-sv2an1ox\project\MyCompany.Diagnostics\bin\Debug\net7.0\MyCompany.Diagnostics.dll
+C:\Development\project-bolt-sb1-sv2an1ox\project\MyCompany.Diagnostics\bin\Debug\net7.0\MyCompany.Diagnostics.pdb
+C:\Development\project-bolt-sb1-sv2an1ox\project\MyCompany.Diagnostics\obj\Debug\net7.0\MyCompany.Diagnostics.dll
+C:\Development\project-bolt-sb1-sv2an1ox\project\MyCompany.Diagnostics\obj\Debug\net7.0\refint\MyCompany.Diagnostics.dll
+C:\Development\project-bolt-sb1-sv2an1ox\project\MyCompany.Diagnostics\obj\Debug\net7.0\MyCompany.Diagnostics.pdb
+C:\Development\project-bolt-sb1-sv2an1ox\project\MyCompany.Diagnostics\obj\Debug\net7.0\ref\MyCompany.Diagnostics.dll
