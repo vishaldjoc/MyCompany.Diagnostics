@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ufeALnR8aERu2oS6RYSRO3x2WJgi9j6vig2/AFH9ta6AvELqwkdYaHn+TMMzhMhQiABoGxjNP7f027M4l8/T1A==",
+  "dgSpecHash": "2cx9lJ6icJLHct24DAMbz9JgXJIJnSKdPcBFBIxG7LhszMGk9QZQir4R662/o5xUFk7xN+prgoUpB1xzGh/Qww==",
   "success": true,
-  "projectFilePath": "C:\\Development\\project-bolt-sb1-sv2an1ox\\project\\MyCompany.API\\MyCompany.API.csproj",
+  "projectFilePath": "C:\\Users\\visha\\Source\\Repos\\MyCompany.Diagnostics\\MyCompany.API\\MyCompany.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\visha\\.nuget\\packages\\google.protobuf\\3.23.4\\google.protobuf.3.23.4.nupkg.sha512",
     "C:\\Users\\visha\\.nuget\\packages\\grpc.core.api\\2.55.0\\grpc.core.api.2.55.0.nupkg.sha512",

@@ -2724,11 +2724,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Development\\project-bolt-sb1-sv2an1ox\\project\\MyCompany.API\\MyCompany.API.csproj",
+      "projectUniqueName": "C:\\Users\\visha\\Source\\Repos\\MyCompany.Diagnostics\\MyCompany.API\\MyCompany.API.csproj",
       "projectName": "MyCompany.API",
-      "projectPath": "C:\\Development\\project-bolt-sb1-sv2an1ox\\project\\MyCompany.API\\MyCompany.API.csproj",
+      "projectPath": "C:\\Users\\visha\\Source\\Repos\\MyCompany.Diagnostics\\MyCompany.API\\MyCompany.API.csproj",
       "packagesPath": "C:\\Users\\visha\\.nuget\\packages\\",
-      "outputPath": "C:\\Development\\project-bolt-sb1-sv2an1ox\\project\\MyCompany.API\\obj\\",
+      "outputPath": "C:\\Users\\visha\\Source\\Repos\\MyCompany.Diagnostics\\MyCompany.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\visha\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2745,8 +2745,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Development\\project-bolt-sb1-sv2an1ox\\project\\MyCompany.Diagnostics\\MyCompany.Diagnostics.csproj": {
-              "projectPath": "C:\\Development\\project-bolt-sb1-sv2an1ox\\project\\MyCompany.Diagnostics\\MyCompany.Diagnostics.csproj"
+            "C:\\Users\\visha\\Source\\Repos\\MyCompany.Diagnostics\\MyCompany.Diagnostics\\MyCompany.Diagnostics.csproj": {
+              "projectPath": "C:\\Users\\visha\\Source\\Repos\\MyCompany.Diagnostics\\MyCompany.Diagnostics\\MyCompany.Diagnostics.csproj"
             }
           }
         }
